@@ -21,8 +21,8 @@ This is an AI-powered chatbot project built using **n8n** and **LangChain**, int
 4. Set up your **Google Gemini API credentials**
 5. Activate the workflow and start chatting!
 
-## 📸 Screenshot (optional)
-_Add screenshot here showing the n8n workflow_
+## 📸 Screenshot 
+<img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/46d3c227-71f9-4ccb-8964-31802e5911a7" />
 
 ---
 
