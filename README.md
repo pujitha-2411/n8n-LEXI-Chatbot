@@ -5,5 +5,3 @@ Built with n8n, LangChain, and Google Gemini (PaLM API)
 Main workflow file: workflows/Lexi.json
 
 Visual configuration via the n8n editor
-
-To use: import the workflow into n8n, set up Google Gemini API credentials, and activate
