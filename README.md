@@ -4,4 +4,7 @@ Built with n8n, LangChain, and Google Gemini (PaLM API)
 
 Main workflow file: workflows/Lexi.json
 
+<img width="1920" height="1080" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/15c9db52-0a19-4c20-a592-1453b9d301c2" />
+
+
 Visual configuration via the n8n editor
